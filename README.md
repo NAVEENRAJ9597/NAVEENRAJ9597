@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on Software developing project<br>- 🌱 I’m currently learning Software Developer <br>- 🤔 I’m looking for help with internship<br>- 📫 How to reach me: nraj65955@gmail.com <br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: travel and explore more, code with care!</p>
+<p align="left">- 🔭 I’m currently working on Software developing project<br>- 🌱 I’m currently learning Software Developer <br>- 🤔 I’m looking for help with internship<br>- 📫 How to reach me: nraj65955@gmail.com <br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: travel and explore more!</p>
 
 ###
 
