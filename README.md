@@ -83,14 +83,3 @@
 
 <p align="left"></p>
 
-###
-
-<h3 align="left">Watch snake eating my github contributions:</h3>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NAVEENRAJ9597/NAVEENRAJ9597/output/snake.svg" alt="Snake animation" />
-
-###
