@@ -7,8 +7,9 @@
 ###
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/NAVEENRAJ9597/count.svg?%22"  />
+  <img src="https://profile-counter.glitch.me/NAVEENRAJ9597/count.svg" />
 </div>
+
 
 ###
 
