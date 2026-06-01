@@ -158,7 +158,7 @@ fun_fact    : "I love to travel and explore new places ✈️"
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/NAVEENRAJ9597/count.svg" />
+
 
 <br/>
 
